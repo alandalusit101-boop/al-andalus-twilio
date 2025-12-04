@@ -20,4 +20,5 @@ Only users who register inside the platform receive messages.
 The `/src/sendOtp.js` file contains the sample code used for sending OTPs.
 
 This project is only intended to show Twilio the type of code we use
-for account verification and SMS/WhatsApp messages.
+for account verification and SMS messages.
+
